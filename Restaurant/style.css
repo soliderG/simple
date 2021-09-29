@@ -1,0 +1,41 @@
+* {
+    margin    : 0px;
+    padding   : 0px;
+    box-sizing: border-box;
+}
+
+.background {
+    background-image     : url("picture/header.jpg");
+    position             : relative;
+    background-repeat    : no-repeat;
+    background-position  : center;
+    background-attachment: fixed;
+    background-size      : cover;
+}
+
+a {
+    font-size  : medium;
+    font-weight: bold;
+}
+
+.header {
+    position  : relative;
+    margin-top: 50px;
+}
+
+.main {
+    background-image   : url("picture/food2.jpg");
+    background-size    : cover;
+    background-repeat  : no-repeat;
+    background-position: center;
+    width              : 60%;
+    height             : 300px;
+}
+
+.footer {
+    background-image   : url("picture/taco3.jpg");
+    background-size    : cover;
+    background-repeat  : no-repeat;
+    background-position: center;
+    height: 450px;
+}
