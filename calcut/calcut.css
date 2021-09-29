@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+#num1 {
+  border-bottom: 1px solid rgb(13, 61, 51);
+  width: 40px;
+  font-size: 20px;
+  font-weight: 500;
+}
+#num2 {
+  border-bottom: 1px solid rgb(13, 64, 68);
+  width: 40px;
+  font-size: 20px;
+  font-weight: 500;
+}
+#AllSum {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+#AllBtn {
+  margin-bottom: 20px;
+}
+#btn {
+  margin-bottom: 20px;
+}
+#sum {
+  border-bottom: 1px solid rgb(10, 10, 46);
+}
