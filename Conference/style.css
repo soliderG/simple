@@ -1,0 +1,191 @@
+* {
+    margin    : 0;
+    padding   : 0;
+    box-sizing: border-box;
+}
+
+h3:nth-child(1) {
+    font-size: 36px;
+    color    : rgb(62, 89, 146);
+}
+
+.header {
+    width : 100%;
+    height: auto;
+}
+
+.halfA {
+    width       : 290px;
+    float       : right;
+    margin-top  : 0px;
+    margin-right: 140px;
+    font-size   : 48px;
+    font-weight : 100;
+    font-family : sans-serif;
+}
+
+.headfooter {
+    margin-top: 60px;
+}
+
+.august {
+    width       : 370px;
+    font-size   : 21px;
+    float       : right;
+    margin-right: 55px;
+}
+
+.augustB {
+    margin-right: 90px;
+}
+
+.navbarB {
+    margin-right: 100px;
+}
+
+.halfb {
+    margin-top: 50px;
+}
+
+.parah {
+    color: rgb(62, 89, 146);
+}
+
+.footer {
+    width: 350px;
+}
+
+.footerB {
+    color: rgb(62, 89, 146);
+    font-weight: 900;
+}
+
+h4 a {
+    text-decoration: none;
+    color          : rgb(49, 94, 94);
+    font-size      : 43px;
+    font-weight    : bold;
+
+}
+
+h4 a:hover {
+    color      : rgb(62, 89, 146);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#grad1 {
+    height          : 220px;
+    background-color: antiquewhite;
+    background-image: linear-gradient(to right, rgb(120, 202, 171), rgb(226, 211, 164));
+}
+
+.speakermain {
+    margin-left: 170px;
+}
+
+h5 a {
+    border-bottom  : 1px solid rgb(134, 235, 230);
+    text-decoration: none;
+}
+
+h5 a:hover {
+    color: rgb(3, 70, 70);
+}
+
+h3 a {
+    text-decoration: none;
+}
+
+h3 a:hover {
+    color: rgb(196, 193, 193);
+}
+
+p a {
+    text-decoration: none;
+    font-size      : small;
+}
+
+p a:hover {
+    color: rgb(62, 89, 146);
+}
+
+.colorA {
+    color: rgb(196, 193, 193);
+}
+
+.colorB {
+    color: rgb(143, 143, 143);
+}
+
+td {
+    height        : 60px;
+    border-top    : 1px solid #053a3a;
+    vertical-align: top;
+    padding       : 20px;
+    font-weight   : bold;
+    font-family   : Arial, Helvetica, sans-serif;
+    color         : #5d5f5f;
+}
+
+.thead {
+    border-top    : none;
+    padding-bottom: 30px;
+}
+
+th {
+    height        : 60px;
+    padding-right : 30px;
+    vertical-align: middle;
+    font-family   : Georgia, 'Times New Roman', Times, serif;
+}
+
+td a {
+    text-decoration: none;
+}
+
+td a:hover {
+    color: #989e9e;
+}
+
+.venueA {
+    margin-left: 120px;
+    text-align : center;
+}
+
+.imageVENU {
+    float       : right;
+    margin-right: 125px;
+}
+
+h6 a:hover {
+    color: #b3b6b6;
+}
+
+ul {
+    margin-left    : 35px;
+    list-style-type: square;
+    margin-top: 7px;
+}
+
+.registerA {
+    margin-left : 50px;
+    padding-left: 130px;
+}
+
+.registerB {
+    margin-right: 130px;
+}
+
+.formbtn {
+    background-color: #405a5a;
+    color           : aliceblue;
+    padding: 10px 30px;
+}
+
+p button:hover {
+    background-color: #6f7e7e;
+}
+.colorC {
+    color: #838a8a;
+    font-weight: 600;
+}
